@@ -1,4 +1,8 @@
 this is master branch file
+<<<<<<< HEAD
 This line edited in master branch
 lets what happening
+=======
+This line have been modified in confict repo.
+>>>>>>> conflict
 
